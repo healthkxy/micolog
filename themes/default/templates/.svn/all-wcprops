@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/42/trunk/themes/default/templates
+END
+page.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/themes/default/templates/page.html
+END
+category.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/themes/default/templates/category.html
+END
+error404.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/themes/default/templates/error404.html
+END
+single.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/themes/default/templates/single.html
+END
+comments.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/themes/default/templates/comments.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/42/trunk/themes/default/templates/index.html
+END
+error-101.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/themes/default/templates/error-101.html
+END
+error-102.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/themes/default/templates/error-102.html
+END
+sidebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/themes/default/templates/sidebar.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/trunk/themes/default/templates/base.html
+END
+tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/themes/default/templates/tag.html
+END

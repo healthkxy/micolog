@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/42/trunk/views
+END
+atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/33/trunk/views/atom.xml
+END
+sitemap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/42/trunk/views/sitemap.xml
+END
+wordpress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/36/trunk/views/wordpress.xml
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/views/404.html
+END
