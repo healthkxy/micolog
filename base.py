@@ -43,7 +43,6 @@ def requires_admin(method):
             self.redirect(users.create_login_url(self.request.uri))
             return
         elif not self.is_admin:
-            #logging.info('kxy write self is not a admin')
             return self.error(403)
         else:
             return method(self, *args, **kwargs)
